@@ -1,0 +1,11 @@
+package Oops_morningclass;
+
+public class polymorphism_overriding_call {
+
+	public static void main(String[] args) {
+		polymorphism_overriding2 po=new polymorphism_overriding2();
+		po.money(20);
+
+	}
+
+}
